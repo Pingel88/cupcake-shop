@@ -2,3 +2,13 @@
   font-style: italic;
   color: red;
 }
+
+li.best {
+  font-weight: bolder;
+  color:blanchedalmond;
+  font-size: 50px;
+}
+
+body {
+  background-color: olivedrab
+}
